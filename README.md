@@ -17,3 +17,11 @@
 
 ## zadanie 3
 <img width="1276" height="1336" alt="image" src="https://github.com/user-attachments/assets/06808624-b0b7-4177-8242-9a2950af1201" />
+
+# zadanie 4
+
+<img width="1074" height="1258" alt="image" src="https://github.com/user-attachments/assets/ad5cd8cd-35c7-4ed7-a18a-5a22a0277598" />
+
+<img width="1151" height="643" alt="image" src="https://github.com/user-attachments/assets/7ac783b8-c4e4-46d5-9bcf-11cfc6fefeb3" />
+
+<img width="1261" height="314" alt="image" src="https://github.com/user-attachments/assets/d624e0aa-80d6-4d48-9005-6e389ab23654" />
