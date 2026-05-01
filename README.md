@@ -14,3 +14,6 @@
 ## zadanie 2
 
 <img width="1262" height="869" alt="image" src="https://github.com/user-attachments/assets/4ab24041-81fd-4d87-848b-595a8d6bc72b" />
+
+## zadanie 3
+<img width="1276" height="1336" alt="image" src="https://github.com/user-attachments/assets/06808624-b0b7-4177-8242-9a2950af1201" />
