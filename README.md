@@ -10,3 +10,7 @@
 <img width="846" height="324" alt="image" src="https://github.com/user-attachments/assets/b98796a6-5f86-40ec-afea-0c3a3fb1b286" />
 
 <img width="1272" height="739" alt="image" src="https://github.com/user-attachments/assets/e81df9a7-e648-47ee-b9bb-292de89c0e4f" />
+
+## zadanie 2
+
+<img width="1262" height="869" alt="image" src="https://github.com/user-attachments/assets/4ab24041-81fd-4d87-848b-595a8d6bc72b" />
