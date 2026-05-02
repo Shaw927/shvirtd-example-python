@@ -37,3 +37,11 @@ ENV/
 *.pyc
 *.pyo
 *.pyd
+
+#не нада
+backup/.env
+terraform.tar
+terraform_build
+terraform_cp
+bin/
+terraform_extracted/
